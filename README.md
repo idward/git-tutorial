@@ -3,4 +3,4 @@
 --feature B
 --fix-B
 --feature C
---feature D
+--feature D is updated
