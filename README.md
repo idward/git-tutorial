@@ -3,4 +3,3 @@
 --feature B
 --fix-B
 --feature C
---add some modification info
